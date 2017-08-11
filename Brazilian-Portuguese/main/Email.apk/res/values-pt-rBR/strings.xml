@@ -235,7 +235,6 @@ Alterá-los agora?"</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_pop3_attchemt_downloading">pop3类型的账号不能取消下载中的附件</string>
   <string name="cant_move_or_change_labels">"Não é possível mover itens de várias contas ao mesmo tempo."</string>
-  <string name="cc_attribution">Cc: %1$s<br></string>
   <string name="cc_bcc">Cc/Cco</string>
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
   <string name="change_sync_settings">Alterar config. de sincronização</string>
