@@ -23,30 +23,6 @@
     <item>3G/2G (autom.)</item>
     <item>Apenas 2G</item>
   </string-array>
-  <string-array name="language_list_values">
-    <item>Todos os idiomas</item>
-    <item>Alemão</item>
-    <item>Inglês</item>
-    <item>Italiano</item>
-    <item>Francês</item>
-    <item>Espanhol</item>
-    <item>Holandês</item>
-    <item>Sueco</item>
-    <item>Dinamarquês</item>
-    <item>Português</item>
-    <item>Finlandês</item>
-    <item>Norueguês</item>
-    <item>Grego</item>
-    <item>Turco</item>
-    <item>Húngaro</item>
-    <item>Polonês</item>
-    <item>Outros</item>
-    <item>Tcheco</item>
-    <item>Hebraico</item>
-    <item>Árabe</item>
-    <item>Russo</item>
-    <item>Islandês</item>
-  </string-array>
   <string-array name="plmn_prefer_network_type_choices">
     <item>2G</item>
     <item>3G</item>
