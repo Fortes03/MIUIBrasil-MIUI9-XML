@@ -114,16 +114,16 @@
     <item quantity="one">%1$s jóia</item>
   </plurals>
   <plurals name="more_gems">
-    <item quantity="other">Colete mais <font color="#fc7050><b>%d</b></font> gemas para participar do sorteio.</item>
-    <item quantity="one">Colete mais <font color="#fc7050><b>%d</b></font> gema para participar do sorteio.</item>
+    <item quantity="other">Colete mais %d gemas para participar do sorteio.</item>
+    <item quantity="one">Colete mais %d gema para participar do sorteio.</item>
   </plurals>
   <plurals name="clockin_days">
     <item quantity="other">Fez o check-in em %1$s dias seguidos</item>
     <item quantity="one">Fez o check-in em %1$s dia seguido</item>
   </plurals>
   <plurals name="clockin_new_chip">
-    <item quantity="other">Você ganhou <font color="#faea47><b>%d</b></font> pontos</item>
-    <item quantity="one">Você ganhou <font color="#faea47><b>%d</b></font> ponto</item>
+    <item quantity="other">Você ganhou %d pontos</item>
+    <item quantity="one">Você ganhou %d ponto</item>
   </plurals>
   <plurals name="clockin_day_count">
     <item quantity="other">Check-in em %1$s dias seguidos, continue assim!</item>
