@@ -14,7 +14,7 @@
     <item quantity="one">%1$d minuto atrás </item>
   </plurals>
   <plurals name="time_in_second">
-    <item quantity="other">%1$d segundos atrás </item>
-    <item quantity="one">%1$d segundo atrás </item>
+    <item quantity="other">%1$d segundos atrás</item>
+    <item quantity="one">%1$d segundo atrás</item>
   </plurals>
 </resources>

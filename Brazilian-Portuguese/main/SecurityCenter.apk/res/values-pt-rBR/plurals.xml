@@ -10,8 +10,8 @@
     <item quantity="one">%d mensagem</item>
   </plurals>
   <plurals name="marked_by_others">
-    <item quantity="other">%d outros usuários reportaram-no como</item>
-    <item quantity="one">%d outro usuário reportou-o como</item>
+    <item quantity="other">%d outros usuários marcaram isto como</item>
+    <item quantity="one">%d outro usuário marcou isto como</item>
   </plurals>
   <plurals name="st_show_num_keyword">
     <item quantity="other">%d palavras-chave</item>
@@ -22,12 +22,12 @@
     <item quantity="one">%d número</item>
   </plurals>
   <plurals name="hints_traffic_enable_title">
-    <item quantity="other">%d apps não estão sendo monitorados</item>
-    <item quantity="one">%d app não está sendo monitorado</item>
+    <item quantity="other">Não rastreando o uso de dados para %d apps</item>
+    <item quantity="one">Não rastreando o uso de dados para %d app</item>
   </plurals>
   <plurals name="hints_traffic_disable_title">
-    <item quantity="other">Monitorando uso de dados para %d apps</item>
-    <item quantity="one">Monitorando uso de dados para %d app</item>
+    <item quantity="other">Rastreando uso de dados para %d apps</item>
+    <item quantity="one">Rastreando uso de dados para %d app</item>
   </plurals>
   <plurals name="traffic_setting_app_count">
     <item quantity="other">%d apps</item>
@@ -38,12 +38,8 @@
     <item quantity="one">"Você já usou %s do limite diário de dados."</item>
   </plurals>
   <plurals name="daily_sim_over_limit_dialog_message">
-    <item quantity="other">"Você já usou %s do limite diário de dados.
-
-Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excedente."</item>
-    <item quantity="one">"Você já usou %s do limite diário de dados.
-
-Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excedente."</item>
+    <item quantity="other">Você já usou %s do limite de dados diário.\n\nSe você ativar os dados móveis novamente, sua operadora poderá cobrar pelos dados adicionais.</item>
+    <item quantity="one">Você já usou %s do limite de dados diário.\n\nSe você ativar os dados móveis novamente, sua operadora poderá cobrar pelos dados adicionais.</item>
   </plurals>
   <plurals name="search_app_count_txt_na">
     <item quantity="other">Pesquisar %d apps</item>
@@ -62,8 +58,8 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <item quantity="one">%d app encontrado</item>
   </plurals>
   <plurals name="om_ill_proc_multi_app_title">
-    <item quantity="other">"%d apps não estão funcionando corretamente e estão descarregando a bateria"</item>
-    <item quantity="one">"%d app não está funcionando corretamente e está descarregando a bateria"</item>
+    <item quantity="other">"%d apps não estão funcionando corretamente, descarregando a bateria"</item>
+    <item quantity="one">"%d app não está funcionando corretamente, descarregando a bateria"</item>
   </plurals>
   <plurals name="power_center_battery_day">
     <item quantity="other">"%d dias "</item>
@@ -82,20 +78,20 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <item quantity="one">Em %1$d minuto</item>
   </plurals>
   <plurals name="quick_optimize_summary_text">
-    <item quantity="other">%d problemas solucionados</item>
-    <item quantity="one">%d problema solucionado</item>
+    <item quantity="other">%d problemas de bateria resolvidos</item>
+    <item quantity="one">%d problema de bateria resolvido</item>
   </plurals>
   <plurals name="quick_optimize_issue_found">
-    <item quantity="other">%d problemas encontrados</item>
-    <item quantity="one">%d problema encontrado</item>
+    <item quantity="other">%d problemas de bateria encontrados</item>
+    <item quantity="one">%d problema de bateria encontrado</item>
   </plurals>
   <plurals name="quick_optimize_issue_count">
-    <item quantity="other">%d problemas</item>
-    <item quantity="one">%d problema</item>
+    <item quantity="other">%d problemas de bateria</item>
+    <item quantity="one">%d problema de bateria</item>
   </plurals>
   <plurals name="quick_optimize_suggest_issue_found">
-    <item quantity="other">%d problemas encontrados na bateria, corrija-os</item>
-    <item quantity="one">%d problema encontrado na bateria, corrija-o</item>
+    <item quantity="other">%d problemas de bateria encontrados</item>
+    <item quantity="one">%d problema de bateria encontrado</item>
   </plurals>
   <plurals name="people">
     <item quantity="one">Baixado por %1$d pessoa</item>
@@ -110,16 +106,16 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <item quantity="one">%1$d visualização</item>
   </plurals>
   <plurals name="result_virus_header">
-    <item quantity="other">%d apps com vírus ou inseguros encontrados</item>
-    <item quantity="one">1 app com vírus encontrado</item>
+    <item quantity="other">%d apps com vírus encontrados</item>
+    <item quantity="one">%d app com vírus encontrado</item>
   </plurals>
   <plurals name="result_sign_header">
     <item quantity="other">%d apps não oficiais encontrados</item>
-    <item quantity="one">1 app não oficial encontrado</item>
+    <item quantity="one">%d app não oficial encontrado</item>
   </plurals>
   <plurals name="sp_settings_exception_count">
     <item quantity="other">%d itens</item>
-    <item quantity="one">1 item</item>
+    <item quantity="one">%d item</item>
   </plurals>
   <plurals name="sp_monitored_apps_count">
     <item quantity="other">%s apps de pagamento protegidos</item>
@@ -141,6 +137,10 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <item quantity="other">Protegendo %d apps</item>
     <item quantity="one">Protegendo %d app</item>
   </plurals>
+  <plurals name="title_virus_clean">
+    <item quantity="other">%d vírus removidos</item>
+    <item quantity="one">%d vírus removido</item>
+  </plurals>
   <plurals name="hints_auto_start_enable_title">
     <item quantity="other">%d apps iniciam automaticamente</item>
     <item quantity="one">%d app inicia automaticamente</item>
@@ -158,20 +158,20 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <item quantity="one">%d app</item>
   </plurals>
   <plurals name="hints_get_root_enable_title">
-    <item quantity="other">%d apps possuem acesso root</item>
-    <item quantity="one">%d app possui acesso root</item>
+    <item quantity="other">%d apps têm acesso root</item>
+    <item quantity="one">%d app tem acesso root</item>
   </plurals>
   <plurals name="hints_get_root_disable_title">
-    <item quantity="other">"%d apps não possuem acesso root"</item>
-    <item quantity="one">"%d app não possui acesso root"</item>
+    <item quantity="other">"%d apps não têm acesso root"</item>
+    <item quantity="one">"%d app não tem acesso root"</item>
   </plurals>
   <plurals name="manual_white_list_header">
     <item quantity="other">%d exceções</item>
     <item quantity="one">%d exceção</item>
   </plurals>
   <plurals name="summary_flow_verify">
-    <item quantity="other">"Ás estatísticas de uso de dados com a operadora não sincronizam há %d dias"</item>
-    <item quantity="one">"Ás estatísticas de uso de dados com a operadora não sincronizam há %d dia"</item>
+    <item quantity="other">"As estatísticas de uso de dados com a operadora não sincronizam há %d dias"</item>
+    <item quantity="one">"As estatísticas de uso de dados com a operadora não sincronizam há %d dia"</item>
   </plurals>
   <plurals name="summary_app_update">
     <item quantity="other">Atualizações disponíveis para %d apps.</item>
@@ -182,12 +182,12 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <item quantity="one">%d dia desde a última verificação</item>
   </plurals>
   <plurals name="hints_handle_item_text_risk_number">
-    <item quantity="other">%d riscos,</item>
-    <item quantity="one">%d risco,</item>
+    <item quantity="other">%d riscos, </item>
+    <item quantity="one">%d risco, </item>
   </plurals>
   <plurals name="hints_handle_item_text_virus_number">
-    <item quantity="other">%d trojans,</item>
-    <item quantity="one">%d trojan,</item>
+    <item quantity="other">%d trojans</item>
+    <item quantity="one">%d trojan</item>
   </plurals>
   <plurals name="white_list_risk_app_header">
     <item quantity="other">Apps perigosos: %d</item>
@@ -224,10 +224,6 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
   <plurals name="section_security_defend_item_right_tips">
     <item quantity="other">%d vírus excluídos</item>
     <item quantity="one">%d vírus excluído</item>
-  </plurals>
-  <plurals name="optimize_result_button_add_score">
-    <item quantity="other">+%d</item>
-    <item quantity="one">+%d</item>
   </plurals>
   <plurals name="add_game_notification_title">
     <item quantity="other">%d jogos adicionados</item>
@@ -268,5 +264,9 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
   <plurals name="uninstall_game_count_title">
     <item quantity="other">"%d jogos não adicionados"</item>
     <item quantity="one">"%d jogo não adicionado"</item>
+  </plurals>
+  <plurals name="net_booster_expire_notification_tip">
+    <item quantity="other">%d dias restantes antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
+    <item quantity="one">%d dia restante antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
   </plurals>
 </resources>

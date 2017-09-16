@@ -10,7 +10,7 @@
     <item>Nome</item>
   </string-array>
   <string-array name="installed_app_sort_type">
-    <item>Usado com frequência</item>
+    <item>Usados com frequência</item>
     <item>Tamanho</item>
   </string-array>
   <string-array name="auto_clean_time">
@@ -26,8 +26,8 @@
     <item>1GB</item>
   </string-array>
   <string-array name="auto_process_mode">
-    <item>Perguntar com notificação</item>
-    <item>Limpar em segundo plano</item>
-    <item>Mostrar notificação após limpar</item>
+    <item>Notificar</item>
+    <item>Limpar</item>
+    <item>Limpar e notificar</item>
   </string-array>
 </resources>

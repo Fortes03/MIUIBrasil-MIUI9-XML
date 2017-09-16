@@ -14,28 +14,28 @@
     <item quantity="one">%d item</item>
   </plurals>
   <plurals name="ui_bar_txt_download_progress">
-    <item quantity="other">%1$d arquivos para download</item>
-    <item quantity="one">%1$d arquivo para download</item>
+    <item quantity="other">%1$d arquivos restantes para download</item>
+    <item quantity="one">%1$d arquivo restante para download</item>
   </plurals>
   <plurals name="ui_bar_txt_upload_progress">
-    <item quantity="other">%1$d arquivos para upload</item>
-    <item quantity="one">%1$d arquivo para upload</item>
+    <item quantity="other">%1$d arquivos restantes para upload</item>
+    <item quantity="one">%1$d arquivo restante para upload</item>
   </plurals>
   <plurals name="ui_bar_txt_transport_progress">
-    <item quantity="other">%1$d arquivos para transmitir</item>
-    <item quantity="one">%1$d arquivo para transmitir</item>
+    <item quantity="other">%1$d arquivos restantes para transmitir</item>
+    <item quantity="one">%1$d arquivo restante para transmitir</item>
   </plurals>
   <plurals name="numSelectedFile">
     <item quantity="other">%1$d selecionados</item>
     <item quantity="one">%1$d selecionado</item>
   </plurals>
   <plurals name="items_file">
-    <item quantity="other">(%1$d itens)</item>
-    <item quantity="one">(%1$d item)</item>
+    <item quantity="other"> (%1$d itens)</item>
+    <item quantity="one"> (%1$d item)</item>
   </plurals>
   <plurals name="items_picture">
-    <item quantity="other">(%1$d itens)</item>
-    <item quantity="one">(%1$d item)</item>
+    <item quantity="other"> (%1$d itens)</item>
+    <item quantity="one"> (%1$d item)</item>
   </plurals>
   <plurals name="file_count">
     <item quantity="other">%1$d itens</item>

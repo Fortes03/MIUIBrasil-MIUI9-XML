@@ -74,8 +74,8 @@
     <item quantity="one">"Não foi possível exportar %d vídeo. Libere algum espaço e tente novamente."</item>
   </plurals>
   <plurals name="wechat_empty_files">
-    <item quantity="other">(%1$d arquivos vazios) %2$s</item>
-    <item quantity="one">(%1$d arquivo vazio) %2$s</item>
+    <item quantity="other"> (%1$d arquivos vazios) %2$s</item>
+    <item quantity="one"> (%1$d arquivo vazio) %2$s</item>
   </plurals>
   <plurals name="app_usage_day">
     <item quantity="other">"Sem uso por %d dias"</item>
@@ -90,7 +90,7 @@
     <item quantity="one">"Sem uso por %d ano"</item>
   </plurals>
   <plurals name="resutl_function_install_app_summary">
-    <item quantity="other">&lt;Data&gt;&amp;lt;font color=#ff0000 &gt;%d&amp;lt;/font&gt; não foram usados por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
-    <item quantity="one">&lt;Data&gt;&amp;lt;font color=#ff0000 &gt;%d&amp;lt;/font&gt; não foi usado por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
+    <item quantity="other"><font color="#ff0000">%d</font> apps não foram usados por um bom tempo, dê uma olhada.</item>
+    <item quantity="one"><font color="#ff0000">%d</font> app não foi usado por um bom tempo, dê uma olhada.</item>
   </plurals>
 </resources>

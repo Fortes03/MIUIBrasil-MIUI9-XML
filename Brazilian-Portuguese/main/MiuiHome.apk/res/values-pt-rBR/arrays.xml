@@ -48,8 +48,8 @@
     <item>Neblina</item>
   </string-array>
   <string-array name="editing_mode_entries">
-    <item>Fundo</item>
-    <item>Widgets</item>
     <item>Fundos</item>
+    <item>Widgets</item>
+    <item>Configurar</item>
   </string-array>
 </resources>

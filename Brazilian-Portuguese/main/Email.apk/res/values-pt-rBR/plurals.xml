@@ -17,6 +17,10 @@
     <item quantity="other">As conversas contém múltiplas mensagens, excluir mesmo assim?</item>
     <item quantity="one">A conversa contém múltiplas mensagens, excluir mesmo assim?</item>
   </plurals>
+  <plurals name="confirm_delete_draft">
+    <item quantity="one">Excluir %1$d rascunho?</item>
+    <item quantity="other">Excluir %1$d rascunhos?</item>
+  </plurals>
   <plurals name="contact_num_selected">
     <item quantity="other">%d itens selecionados</item>
     <item quantity="one">%d item selecionado</item>
@@ -32,6 +36,10 @@
   <plurals name="conversation_folder_changed">
     <item quantity="other">Pastas alteradas.</item>
     <item quantity="one">Pasta alterada.</item>
+  </plurals>
+  <plurals name="conversation_msg_header_count">
+    <item quantity="other">\u2026 %1$d pessoas</item>
+    <item quantity="one">\u2026 %1$d pessoa</item>
   </plurals>
   <plurals name="conversation_muted">
     <item quantity="other">%1$d conversas ignoradas.</item>

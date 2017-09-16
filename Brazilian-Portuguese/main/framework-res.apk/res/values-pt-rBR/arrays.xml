@@ -44,31 +44,31 @@
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Tente novamente</item>
-    <item>""</item>
-    <item>""</item>
-    <item>Cubra o leitor de impressões digitais completamente e aplique pressão</item>
-    <item>""</item>
-    <item>Cubra o leitor de impressões digitais completamente e aplique pressão</item>
-    <item>Cubra o leitor de impressões digitais completamente e aplique pressão</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>Cubra o leitor de impressões digitais completamente e aplique pressão</item>
-    <item>Cubra o leitor de impressões digitais completamente e aplique pressão</item>
-    <item>"Muito rápido! Não foi possível reconhecer a impressão digital"</item>
-    <item>Mova o seu dedo um pouco e tente novamente</item>
-    <item>Levante o seu dedo e coloque-o no leitor novamente</item>
-    <item>Mantenha o dedo no leitor um pouco mais</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>""</item>
-    <item>Mova ligeiramente seu dedo</item>
+    <item></item>
+    <item></item>
+    <item>Cubra o leitor de impressão digital completamente e aplique pressão</item>
+    <item></item>
+    <item>Cubra o leitor de impressão digital completamente e aplique pressão</item>
+    <item>Cubra o leitor de impressão digital completamente e aplique pressão</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Cubra o leitor de impressão digital completamente e aplique pressão</item>
+    <item>Cubra o leitor de impressão digital completamente e aplique pressão</item>
+    <item>"Muito rápido! Impressão digital não reconhecida"</item>
+    <item>Mova seu dedo um pouco e tente novamente</item>
+    <item>Levante seu dedo e coloque-o novamente no leitor</item>
+    <item>Mantenha seu dedo no leitor um pouco mais</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Mova o dedo ligeiramente</item>
     <item>Esta impressão digital já foi adicionada, use um dedo diferente</item>
   </string-array>
   <string-array name="imAddressTypes">

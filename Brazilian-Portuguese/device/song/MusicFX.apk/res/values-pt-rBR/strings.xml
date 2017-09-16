@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Realçar graves</string>
+  <string name="ci_extreme">Otimização de efeitos</string>
+  <string name="eq_dialog_title">Equalizador</string>
+  <string name="headset_plug">Conecte os fones de ouvido para esses efeitos.</string>
+  <string name="no_effects">Efeitos indisponíveis.</string>
+  <string name="picker_title">Painel de efeitos sonoros</string>
+  <string name="setup">Configurar</string>
+  <string name="user">Usuário</string>
+  <string name="virtualizer_strength">Som surround</string>
+</resources>

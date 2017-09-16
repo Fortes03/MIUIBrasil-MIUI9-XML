@@ -22,9 +22,9 @@
     <item>"Este mês: "</item>
   </string-array>
   <string-array name="date_of_app_all">
-    <item>Ontem (Dados)</item>
-    <item>Hoje (Dados)</item>
-    <item>Este mês (Dados)</item>
+    <item>Ontem (dados)</item>
+    <item>Hoje (dados)</item>
+    <item>Este mês (dados)</item>
     <item>Ontem (Wi-Fi)</item>
     <item>Hoje (Wi-Fi)</item>
     <item>Este mês (Wi-Fi)</item>
@@ -55,7 +55,7 @@
     <item>Status</item>
     <item>Nome do app</item>
     <item>Frequência de uso</item>
-    <item>Armazenamento em uso</item>
+    <item>Uso do armazenamento</item>
     <item>Uso de dados</item>
     <item>Uso de bateria</item>
   </string-array>
@@ -71,7 +71,7 @@
     <item>Fonte da instalação</item>
     <item>Hora da instalação</item>
     <item>Última atualização da fonte</item>
-    <item>Data da última atualização</item>
+    <item>Última atualização</item>
   </string-array>
   <string-array name="sms_report_type">
     <item>Uso de dados</item>
@@ -87,7 +87,7 @@
   <string-array name="alarm_repeat_type_no_workdays">
     <item>Uma vez</item>
     <item>Diariamente</item>
-    <item>Segunda a Sexta</item>
+    <item>Segunda a sexta</item>
     <item>Personalizado</item>
   </string-array>
 </resources>

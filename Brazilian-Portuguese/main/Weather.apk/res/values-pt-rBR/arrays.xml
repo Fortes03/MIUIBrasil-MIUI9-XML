@@ -10,32 +10,32 @@
     <item>IQA %1$s</item>
   </string-array>
   <string-array name="aqi_detail_title">
-    <item>Boa</item>
+    <item>Bom</item>
     <item>Moderado</item>
     <item>Ruim para grupos sensíveis</item>
     <item>Ruim</item>
     <item>Muito ruim</item>
-    <item>Perigosa</item>
+    <item>Perigoso</item>
   </string-array>
   <string-array name="weather_type">
     <item>Limpo</item>
     <item>Nublado</item>
     <item>Nublado</item>
     <item>Nebuloso</item>
-    <item>Tempestade pesada</item>
+    <item>Tempestade intensa</item>
     <item>Chuva torrencial</item>
     <item>Tempestade chuvosa</item>
     <item>Tempestade</item>
     <item>Chuva</item>
-    <item>Chuva forte</item>
+    <item>Chuva intensa</item>
     <item>Chuva moderada</item>
     <item>Chuva leve</item>
     <item>Chuva com neve</item>
     <item>Nevasca</item>
     <item>Neve</item>
-    <item>Neve forte</item>
+    <item>Neve intensa</item>
     <item>Neve moderada</item>
-    <item>Neve fraca</item>
+    <item>Neve leve</item>
     <item>Tempestade de areia forte</item>
     <item>Tempestade de areia</item>
     <item>Areia</item>
@@ -44,7 +44,7 @@
     <item>Poeira</item>
     <item>Neblina</item>
     <item>Chuva congelada</item>
-    <item>""</item>
+    <item></item>
   </string-array>
   <string-array name="indices_uv_level">
     <item>Baixo</item>
@@ -52,16 +52,16 @@
     <item>Alto</item>
   </string-array>
   <string-array name="indices_sport">
-    <item>Apropriado</item>
+    <item>Aceitável</item>
     <item>Impróprio</item>
   </string-array>
   <string-array name="indices_car_wash">
-    <item>Apropriado</item>
+    <item>Aceitável</item>
     <item>Impróprio</item>
   </string-array>
   <string-array name="wind_direction">
     <item>Norte</item>
-    <item>Nordeste</item>
+    <item>Noroeste</item>
     <item>Leste</item>
     <item>Sudeste</item>
     <item>Sul</item>
@@ -82,14 +82,14 @@
   <string-array name="aqi_value">
     <item>Boa</item>
     <item>Satisfatória</item>
-    <item>Moderadamente poluído</item>
+    <item>Poluição moderada</item>
     <item>Ruim</item>
     <item>Muito ruim</item>
-    <item>Péssima</item>
-    <item>Além do índice</item>
+    <item>Severa</item>
+    <item>Fora do índice</item>
   </string-array>
   <string-array name="wind_unit_simple">
-    <item>Escala de beaufort</item>
+    <item>Escala beaufort</item>
     <item>km/h</item>
     <item>m/s</item>
     <item>mph</item>
@@ -103,11 +103,11 @@
     <item>&lt;3.2kn</item>
   </string-array>
   <string-array name="wind_unit_detail">
-    <item>Escala de Beaufort</item>
+    <item>Escala beaufort</item>
     <item>Quilômetros por hora (km/h)</item>
     <item>Metros por segundo (m/s)</item>
     <item>Milhas por hora (mph)</item>
-    <item>Nó (kn)</item>
+    <item>Nós (kn)</item>
   </string-array>
   <string-array name="wind_unit_replace">
     <item>Força %1$s</item>
@@ -124,10 +124,10 @@
   <string-array name="pollution_level_desc_arr">
     <item>Excelente</item>
     <item>Bom</item>
-    <item>Levemente poluído</item>
+    <item>Pouco poluído</item>
     <item>Moderadamente poluído</item>
-    <item>Muito poluído</item>
-    <item>Severamente poluída</item>
-    <item>Além do índice</item>
+    <item>Altamente poluído</item>
+    <item>Severamente poluído</item>
+    <item>Acima do índice</item>
   </string-array>
 </resources>

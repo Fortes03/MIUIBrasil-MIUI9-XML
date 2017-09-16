@@ -35,7 +35,7 @@
     <item>Padrão</item>
     <item>Imagem</item>
     <item>Filme</item>
-    <item>Economia de energia</item>
+    <item>Economia de bateria</item>
     <item>Balanceado</item>
     <item>Desempenho</item>
     <item>Ativado</item>
@@ -52,7 +52,7 @@
   </string-array>
   <string-array name="hmode_app_groups">
     <item>Personalizado</item>
-    <item>Economia de energia</item>
+    <item>Economia de bateria</item>
   </string-array>
   <string-array name="power_checker_group_prefix">
     <item>Agora</item>
@@ -76,20 +76,20 @@
     <item>Ativado</item>
   </string-array>
   <string-array name="power_checker_group_suffix">
-        <item>""</item>
-        <item>""</item>
-        <item>""</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
   <string-array name="invisible_app_groups">
-    <item>Selecionado</item>
-    <item>Não selecionado</item>
+    <item>selecionado</item>
+    <item>não selecionado</item>
   </string-array>
   <string-array name="thermal_entries">
     <item>Controle padrão de temperatura</item>
     <item>Modo de desempenho prioritário</item>
   </string-array>
   <string-array name="thermal_summaries">
-    <item>Modo preferencial para controle de temperatura do dispositivo</item>
-    <item>Modo preferencial para aumento de desempenho do dispositivo</item>
+    <item>Modo atual padrão</item>
+    <item>Modo de desempenho padrão</item>
   </string-array>
 </resources>

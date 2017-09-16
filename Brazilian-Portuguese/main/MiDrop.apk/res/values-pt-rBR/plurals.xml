@@ -50,8 +50,8 @@
     <item quantity="one">Recebendo %1$s arquivo\u2026</item>
   </plurals>
   <plurals name="notif_receive_cancel">
-    <item quantity="other">%1$s arquivos não transferidos</item>
-    <item quantity="one">%1$s arquivo não transferido</item>
+    <item quantity="other"> %1$s arquivos não transferidos</item>
+    <item quantity="one"> %1$s arquivo não transferido</item>
   </plurals>
   <plurals name="notif_receive_success">
     <item quantity="other">%1$s arquivos recebidos</item>

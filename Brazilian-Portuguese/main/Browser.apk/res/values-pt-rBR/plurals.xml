@@ -6,8 +6,8 @@
     <item quantity="one">%d item bloqueado</item>
   </plurals>
   <plurals name="find_on_page_matches">
-    <item quantity="other">%d resultados</item>
-    <item quantity="one">%d resultado</item>
+    <item quantity="other">%d correspondências</item>
+    <item quantity="one">%d correspondência</item>
   </plurals>
   <plurals name="last_num_days">
     <item quantity="other">Últimos %d dias</item>
@@ -15,7 +15,7 @@
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d de %2$d</item>
-    <item quantity="one">1 resultado</item>
+    <item quantity="one">1 correspondência</item>
   </plurals>
   <plurals name="v5_edit_mode_title">
     <item quantity="other">%1$d selecionados</item>

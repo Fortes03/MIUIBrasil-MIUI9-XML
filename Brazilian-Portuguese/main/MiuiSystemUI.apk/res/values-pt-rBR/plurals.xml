@@ -3,19 +3,19 @@
 <resources>
   <plurals name="status_bar_accessibility_recent_apps">
     <item quantity="other">%d apps recentes</item>
-    <item quantity="one">1 app recente</item>
+    <item quantity="one">%d app recente</item>
   </plurals>
   <plurals name="accessibility_recent_task_enter">
-    <item quantity="other">Apps recentes abertos, apps disponíveis: %d.</item>
-    <item quantity="one">Apps recentes abertos, app disponível: %d.</item>
+    <item quantity="other">Abrindo apps recentes, %d apps disponíveis.</item>
+    <item quantity="one">Abrindo apps recentes, %d app disponível.</item>
   </plurals>
   <plurals name="accessibility_recent_task_first_enter_tips">
-    <item quantity="other">Apps recentes abertos, apps disponíveis: %d. Deslize para cima para remover, deslize para baixo para bloquear.</item>
-    <item quantity="one">Apps recentes abertos, app disponível: %d. Deslize para cima para remover, deslize para baixo para bloquear.</item>
+    <item quantity="other">Abrindo apps recentes, %d apps disponíveis. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
+    <item quantity="one">Abrindo apps recentes, %d app disponível. Deslize para cima para removê-lo, deslize para baixo para bloqueá-lo.</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-    <item quantity="other">%1$d atalhos acima desta barra estão ativos</item>
-    <item quantity="one">%1$d atalho acima desta barra está ativo</item>
+    <item quantity="other">%1$d atalhos aparecerão na Área de notificações</item>
+    <item quantity="one">%1$d atalho aparecerá na Área de notificações</item>
   </plurals>
   <plurals name="disable_notification_confirm_title">
     <item quantity="other">"Ocultar as notificações destes %d apps?"</item>
@@ -30,7 +30,7 @@
     <item quantity="one">Ensolarado</item>
   </plurals>
   <plurals name="fold_tips_title">
-    <item quantity="other">%d notificações ocultas</item>
-    <item quantity="one">%d notificação oculta</item>
+    <item quantity="other">%d notificações sem importância</item>
+    <item quantity="one">%d notificação sem importância</item>
   </plurals>
 </resources>
